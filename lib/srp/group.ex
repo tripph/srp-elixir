@@ -4,6 +4,14 @@ defmodule SRP.Group do
 
   @groups [
     {
+      256,
+      """
+      894B645E 89E1535B BDAD5B8B 29065053 0801B18E BFBF5E8F AB3C8287
+      2A3E9BB7
+      """,
+      7
+    },
+    {
       1024,
       """
       EEAF0AB9 ADB38DD6 9C33F80A FA8FC5E8 60726187 75FF3C0B 9EA2314C
